@@ -44,24 +44,6 @@ class MyApp extends StatelessWidget {
               ),
               Divider(thickness: 1.0),
               Text('''Hello, I'm Tayyab, a passionate and dedicated App Developer with a flair for Developer. With 1 years of experience in software Engineering, I have honed a versatile skill set that combines technical expertise with creative problem-solving.
-Key Attributes:
-
-Innovative Thinker: I thrive on challenging the status quo and exploring unconventional solutions to complex problems. My ability to think outside the box has led to numerous breakthroughs in projects I've been involved in.
-
-Effective Communicator: Whether it's collaborating with cross-functional teams or presenting ideas to stakeholders, I excel in conveying complex concepts in a clear and concise manner. My strong communication skills facilitate seamless coordination and foster a collaborative work environment.
-
-Adaptable and Resilient: In today's fast-paced world, adaptability is key. I embrace change with enthusiasm and approach every obstacle as an opportunity for growth. My resilience in the face of challenges allows me to navigate through uncertainties and emerge stronger than before.
-
-Vision:
-
-I am driven by a passion for [Industry/Field], and my ultimate goal is to [Your Vision or Long-term Goal]. Whether it's revolutionizing [Industry/Field] through innovative technologies or spearheading initiatives for social change, I am committed to making a meaningful impact that transcends boundaries.
-Let's Connect:
-
-I am always eager to collaborate on exciting projects and explore new opportunities. Feel free to reach out to me at [Your Email Address] to discuss how we can work together to bring your ideas to life.
-
-Thank you for visiting my portfolio. I look forward to connecting with you!
-
-Feel free to customize this text to better reflect your personality, experiences, and aspirations. Good luck with your portfolio!
 
 
 ''', style: TextStyle(fontSize: 16.0)),

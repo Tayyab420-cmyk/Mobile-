@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "515191886662",
+    "firebase_url": "https://mess-b73a8-default-rtdb.firebaseio.com",
+    "project_id": "mess-b73a8",
+    "storage_bucket": "mess-b73a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515191886662:android:7d0dcf016b20505602cb47",
+        "android_client_info": {
+          "package_name": "com.example.assign7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJQivmNbHdfDJpyoliMwSn7G244vDvIRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515191886662:android:d482739ec6d8829f02cb47",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJQivmNbHdfDJpyoliMwSn7G244vDvIRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
